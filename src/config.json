@@ -1,6 +1,6 @@
 {
   "key": ["any-key-here-this-will-match-sharex-settings"],
-  "domain": "https://i-hate.life",
+  "domain": "https://domainhere",
   "puploadKeyGenLength": 64,
   "public": false,
   "maxUploadSize": 50,
